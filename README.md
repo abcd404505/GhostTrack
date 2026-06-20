@@ -4,7 +4,7 @@ Useful tool to track location or mobile number, so this tool can be called osint
 <img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/bn.png"/>
 
 New update :
-```Version 2.2```
+```Version 2.2```**Release by K.M.H** ```Crd to Owner```
 
 ### Instalation on Linux (deb)
 ```
@@ -48,6 +48,6 @@ Display on the menu ```Username Tracker```
 on this menu you can search for information from the target username on social media
 
 <details>
-<summary>:zap: Author :</summary>
-- <strong><a href="https://github.com/HunxByts">HunxByts</a></strong>
+<summary>:zap: Modify by :</summary>
+- <strong><a href="https://github.com/abcd404505">K.M.H</a></strong>
 </details>
